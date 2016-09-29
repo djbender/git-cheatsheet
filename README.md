@@ -8,7 +8,7 @@
     git branch -r --contains <commit>
     git branch -a --contains <commit>
 
-### What are the differences between `branch` and `master`?
+### What are commits between `branch` and `master`?
 
      git log origin/master..branch --oneline
      
