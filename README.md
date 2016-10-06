@@ -15,3 +15,7 @@
 As a pretty graph with color!
 
     git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative master..branch
+
+## Resources
+
+ - http://ohshitgit.com/
